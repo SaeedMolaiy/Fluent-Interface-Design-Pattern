@@ -1,0 +1,15 @@
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\bin\Debug\net7.0\FluentInterface.exe
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\bin\Debug\net7.0\FluentInterface.deps.json
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\bin\Debug\net7.0\FluentInterface.runtimeconfig.json
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\bin\Debug\net7.0\FluentInterface.dll
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\bin\Debug\net7.0\FluentInterface.pdb
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.csproj.AssemblyReference.cache
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.AssemblyInfoInputs.cache
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.AssemblyInfo.cs
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.dll
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\refint\FluentInterface.dll
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.pdb
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\FluentInterface.genruntimeconfig.cache
+C:\Users\s.molaee.KNR\source\repos\FluentInterface\FluentInterface\obj\Debug\net7.0\ref\FluentInterface.dll
